@@ -1,9 +1,9 @@
-LNbits
+LNbits Infinity (BETA)
 ======
 
 ![Lightning network wallet](https://i.imgur.com/EHvK6Lq.png)
 
-# LNbits Infinity (BETA), Free Open-Source Lightning Accounts System with Extensions
+# Free Open-Source Lightning Accounts System with Extensions
 
 For the Python version of LNbits checkout <a href="https://github.com/lnbits/lnbits-legend/">Legend</a>. Demo servers available on [lnbits.com](https://lnbits.com).
 
