@@ -1,3 +1,23 @@
+LNbits
+======
+
+[![github-tests-badge]][github-tests]
+[![github-mypy-badge]][github-mypy]
+[![codecov-badge]][codecov]
+[![license-badge]](LICENSE)
+[![docs-badge]][docs]
+
+
+![Lightning network wallet](https://i.imgur.com/EHvK6Lq.png)
+
+# LNbits Infinity (BETA), free and open-source lightning-network wallet/accounts system
+
+For the Python version of LNbits checkout <a href="https://github.com/lnbits/lnbits-legend/">Legend</a>
+
+(Join us on [https://t.me/lnbits](https://t.me/lnbits))
+
+Use [lnbits.com](https://lnbits.com), or run your own LNbits server!
+
 ## Development
 
 Install [Air](https://github.com/cosmtrek/air).
