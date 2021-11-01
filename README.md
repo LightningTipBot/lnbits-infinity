@@ -1,13 +1,6 @@
 LNbits
 ======
 
-[![github-tests-badge]][github-tests]
-[![github-mypy-badge]][github-mypy]
-[![codecov-badge]][codecov]
-[![license-badge]](LICENSE)
-[![docs-badge]][docs]
-
-
 ![Lightning network wallet](https://i.imgur.com/EHvK6Lq.png)
 
 # LNbits Infinity (BETA), free and open-source lightning-network wallet/accounts system
